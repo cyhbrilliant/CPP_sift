@@ -1,0 +1,78 @@
+﻿生成启动时间为 2016/1/11 0:14:40。
+     1>项目“G:\opencv\1\test10\SIFT\SIFT\SIFT.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>c:\program files (x86)\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files (x86)\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\program files (x86)\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(14): warning C4101: “y”: 未引用的局部变量
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(14): warning C4101: “x”: 未引用的局部变量
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(138): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(139): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(140): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(141): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(142): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(144): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(145): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(146): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(147): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(148): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(150): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(151): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(152): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(153): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(154): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(156): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(157): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(158): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(159): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(160): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(162): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(163): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(164): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(165): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(166): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(180): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(191): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(202): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussianmodel.h(214): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\cvmat_mat.h(24): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussiandelta.h(71): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussiandelta.h(77): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussiandelta.h(193): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussiandelta.h(199): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussiandelta.h(379): warning C4244: “初始化”: 从“double”转换到“uchar”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\gussiandelta.h(380): warning C4244: “初始化”: 从“double”转换到“uchar”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\searchpoint.h(106): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\searchout.h(83): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\searchout.h(84): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\deletepoint.h(20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\deletepoint.h(15): warning C4101: “p”: 未引用的局部变量
+     1>g:\opencv\1\test10\sift\sift\fixpoint.h(48): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\fixpoint.h(49): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\fixpoint.h(26): warning C4101: “extrmy”: 未引用的局部变量
+     1>g:\opencv\1\test10\sift\sift\fixpoint.h(25): warning C4101: “extrmx”: 未引用的局部变量
+     1>g:\opencv\1\test10\sift\sift\fixpoint.h(18): warning C4101: “j”: 未引用的局部变量
+     1>g:\opencv\1\test10\sift\sift\his.h(17): warning C4305: “初始化”: 从“double”到“float”截断
+     1>g:\opencv\1\test10\sift\sift\histo_cir.h(900): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\histo_cir.h(901): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\histo_cir.h(717): warning C4101: “p”: 未引用的局部变量
+     1>g:\opencv\1\test10\sift\sift\o_distance.h(19): warning C4101: “l”: 未引用的局部变量
+     1>g:\opencv\1\test10\sift\sift\o_distance.h(63): warning C4101: “l”: 未引用的局部变量
+     1>g:\opencv\1\test10\sift\sift\sift.h(99): warning C4101: “j”: 未引用的局部变量
+     1>g:\opencv\1\test10\sift\sift\源.cpp(440): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\源.cpp(441): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\源.cpp(461): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\源.cpp(462): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>g:\opencv\1\test10\sift\sift\源.cpp(96): warning C4101: “k”: 未引用的局部变量
+     1>g:\opencv\1\test10\sift\sift\源.cpp(96): warning C4101: “l”: 未引用的局部变量
+     1>g:\opencv\1\test10\sift\sift\histo_cir.h(303): warning C4715: “Grad_sita”: 不是所有的控件路径都返回值
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\opencv\1\test10\SIFT\Debug\SIFT.exe" /INCREMENTAL /NOLOGO opencv_ts300d.lib opencv_world300d.lib IlmImfd.lib libjasperd.lib libjpegd.lib libpngd.lib libtiffd.lib libwebpd.lib opencv_calib3d300d.lib opencv_core300d.lib opencv_features2d300d.lib opencv_flann300d.lib opencv_highgui300d.lib opencv_imgcodecs300d.lib opencv_imgproc300d.lib opencv_ml300d.lib opencv_objdetect300d.lib opencv_photo300d.lib opencv_shape300d.lib opencv_stitching300d.lib opencv_superres300d.lib opencv_video300d.lib opencv_videoio300d.lib opencv_videostab300d.lib zlibd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\opencv\1\test10\SIFT\Debug\SIFT.pdb" /SUBSYSTEM:CONSOLE /LARGEADDRESSAWARE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\opencv\1\test10\SIFT\Debug\SIFT.lib" /MACHINE:X86 "Debug\源.obj"
+         SIFT.vcxproj -> G:\opencv\1\test10\SIFT\Debug\SIFT.exe
+     1>已完成生成项目“G:\opencv\1\test10\SIFT\SIFT\SIFT.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.00
